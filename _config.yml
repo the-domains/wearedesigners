@@ -2,12 +2,13 @@ name: wearedesigners
 favicon: null
 layout_spectrum: 0.8262803319375962
 typography_spectrum: 0.9685371948871762
+title: We Are Designers
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77140863-1
   facebook: null
   twitter: null
 opengraph:
